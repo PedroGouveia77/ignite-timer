@@ -1,6 +1,6 @@
 # 🕒 IgniteTimer
 
-![React Logo](<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="100" />)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="100" />
 
 Este é um aplicativo do IgniteTimer desenvolvido com Vite, TypeScript e ReactJS. O usuário pode definir uma atividade, escolher um tempo entre 0 e 60 minutos e iniciar a contagem.  
 
