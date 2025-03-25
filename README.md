@@ -24,44 +24,43 @@ Na página de histórico, a atividade será exibida com o tempo decorrido e um s
 
 ## 📂 Estrutura do Projeto
 SRC
- ┣ 📂 ASSETS
- ┃ ┗ 📜 logo.svg
- ┣ 📂 COMPONENTS
- ┃ ┗ 📂 HEADER
- ┃   ┣ 📜 index.tsx
- ┃   ┗ 📜 styles.ts
- ┣ 📂 CONTEXTS
- ┃ ┗ 📜 CyclesContext.tsx
- ┣ 📂 LAYOUTS
- ┃ ┗ 📂 DEFAULTLAYOUT
- ┃   ┣ 📜 index.tsx
- ┃   ┗ 📜 styles.ts
- ┣ 📂 PAGES
- ┃ ┣ 📂 HISTORY
- ┃ ┃ ┣ 📜 index.tsx
- ┃ ┃ ┗ 📜 styles.ts
- ┃ ┣ 📂 HOME
- ┃ ┃ ┣ 📂 COMPONENTS
- ┃ ┃ ┃ ┣ 📂 COUNTDOWN
- ┃ ┃ ┃ ┃ ┣ 📜 index.tsx
- ┃ ┃ ┃ ┃ ┗ 📜 styles.ts
- ┃ ┃ ┃ ┗ 📂 NEWCYCLEFORM
- ┃ ┃ ┃   ┣ 📜 index.tsx
- ┃ ┃ ┃   ┗ 📜 styles.ts
- ┃ ┃ ┣ 📜 index.tsx
- ┃ ┃ ┗ 📜 styles.ts
- ┣ 📂 REDUCERS
- ┃ ┗ 📂 CYCLES
- ┃   ┣ 📜 actions.ts
- ┃   ┗ 📜 reducer.ts
- ┣ 📂 STYLES
- ┃ ┣ 📂 THEMES
- ┃ ┃ ┗ 📜 default.ts
- ┃ ┗ 📜 global.ts
- ┣ 📜 App.tsx
- ┣ 📜 main.tsx
- ┣ 📜 Router.tsx
- ┗ 📜 vite-env.d.ts
+📂 ASSETS
+📂 COMPONENTS
+📂 HEADER
+📜 index.tsx - Arquivo da Header
+📜 styles.ts - Arquivo da Header
+📂 CONTEXTS
+📜 CyclesContext.tsx - Arqvuivo do CyclesContext
+📂 LAYOUTS
+📂 DEFAULTLAYOUT
+📜 index.tsx - Arquivo do DefaultLayout
+📜 styles.ts - Arquivo do DefaultLayout
+📂 PAGES
+📂 HISTORY
+📜 index.tsx - Arquivo do History
+📜 styles.ts - Arquivo do History
+📂 HOME
+📂 COMPONENTS
+📂 COUNTDOWN
+📜 index.tsx - Arquivo do Coutndown
+📜 styles.ts - Arquivo do Countdown
+📂 NEWCYCLEFORM
+📜 index.tsx - Arquivo do NewCycleForm
+📜 styles.ts - Arquivo do NewCycleForm
+📜 index.tsx - Arquivo da Home
+📜 styles.ts - Arquivo da Home
+📂 REDUCERS
+📂 CYCLES
+📜 actions.ts - Arquivo da Cycles
+📜 reducer.ts - Arquivo da Cycles
+📂 STYLES
+📂 THEMES
+📜 default.ts - Arquivo do Themes
+📜 global.ts - Arquivo da Styles
+📜 App.tsx - Arquivo da SRC
+📜 main.tsx - Arquivo da SRC
+📜 Router.tsx - Arquivo da SRC 
+📜 vite-env.d.ts - Arquivo da SRC
 
 ---
 
