@@ -23,7 +23,45 @@ Na página de histórico, a atividade será exibida com o tempo decorrido e um s
 - 🏗 useEffect
 
 ## 📂 Estrutura do Projeto
-SRC ┣ 📂 ASSETS ┃ ┗ 📜 logo.svg ┣ 📂 COMPONENTS ┃ ┗ 📂 HEADER ┃ ┃ ┣ 📜 index.tsx ┃ ┃ ┗ 📜 styles.ts ┣ 📂 CONTEXTS ┃ ┗ 📜 CyclesContext.tsx ┣ 📂 LAYOUTS ┃ ┗ 📂 DEFAULTLAYOUT ┃ ┃ ┣ 📜 index.tsx ┃ ┃ ┗ 📜 styles.ts ┣ 📂 PAGES ┃ ┣ 📂 HISTORY ┃ ┃ ┣ 📜 index.tsx ┃ ┃ ┗ 📜 styles.ts ┃ ┣ 📂 HOME ┃ ┃ ┣ 📂 COMPONENTS ┃ ┃ ┃ ┣ 📂 COUNTDOWN ┃ ┃ ┃ ┃ ┣ 📜 index.tsx ┃ ┃ ┃ ┃ ┗ 📜 styles.ts ┃ ┃ ┃ ┗ 📂 NEWCYCLEFORM ┃ ┃ ┃ ┃ ┣ 📜 index.tsx ┃ ┃ ┃ ┃ ┗ 📜 styles.ts ┃ ┃ ┣ 📜 index.tsx ┃ ┃ ┗ 📜 styles.ts ┣ 📂 REDUCERS ┃ ┗ 📂 CYCLES ┃ ┃ ┣ 📜 actions.ts ┃ ┃ ┗ 📜 reducer.ts ┣ 📂 STYLES ┃ ┣ 📂 THEMES ┃ ┃ ┗ 📜 default.ts ┃ ┗ 📜 global.ts ┣ 📜 App.tsx ┣ 📜 main.tsx ┣ 📜 Router.tsx ┗ 📜 vite-env.d.ts
+SRC
+ ┣ 📂 ASSETS
+ ┃ ┗ 📜 logo.svg
+ ┣ 📂 COMPONENTS
+ ┃ ┗ 📂 HEADER
+ ┃   ┣ 📜 index.tsx
+ ┃   ┗ 📜 styles.ts
+ ┣ 📂 CONTEXTS
+ ┃ ┗ 📜 CyclesContext.tsx
+ ┣ 📂 LAYOUTS
+ ┃ ┗ 📂 DEFAULTLAYOUT
+ ┃   ┣ 📜 index.tsx
+ ┃   ┗ 📜 styles.ts
+ ┣ 📂 PAGES
+ ┃ ┣ 📂 HISTORY
+ ┃ ┃ ┣ 📜 index.tsx
+ ┃ ┃ ┗ 📜 styles.ts
+ ┃ ┣ 📂 HOME
+ ┃ ┃ ┣ 📂 COMPONENTS
+ ┃ ┃ ┃ ┣ 📂 COUNTDOWN
+ ┃ ┃ ┃ ┃ ┣ 📜 index.tsx
+ ┃ ┃ ┃ ┃ ┗ 📜 styles.ts
+ ┃ ┃ ┃ ┗ 📂 NEWCYCLEFORM
+ ┃ ┃ ┃   ┣ 📜 index.tsx
+ ┃ ┃ ┃   ┗ 📜 styles.ts
+ ┃ ┃ ┣ 📜 index.tsx
+ ┃ ┃ ┗ 📜 styles.ts
+ ┣ 📂 REDUCERS
+ ┃ ┗ 📂 CYCLES
+ ┃   ┣ 📜 actions.ts
+ ┃   ┗ 📜 reducer.ts
+ ┣ 📂 STYLES
+ ┃ ┣ 📂 THEMES
+ ┃ ┃ ┗ 📜 default.ts
+ ┃ ┗ 📜 global.ts
+ ┣ 📜 App.tsx
+ ┣ 📜 main.tsx
+ ┣ 📜 Router.tsx
+ ┗ 📜 vite-env.d.ts
 
 ---
 
