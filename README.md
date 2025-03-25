@@ -41,7 +41,8 @@ Na página de histórico, a atividade será exibida com o tempo decorrido e um s
 
 ---
 
-📌 Funcionalidades
+📌 Funcionalidades:
+
 Definir uma atividade e tempo de contagem.
 
 Iniciar e interromper o Timer.
