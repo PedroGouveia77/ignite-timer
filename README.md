@@ -51,4 +51,6 @@ Histórico de atividades com status dinâmico.
 ---
 
 🚀 Desenvolvido por Pedro Henrique Gouveia de Miranda Couto
-[GitHub](https://github.com/PedroGouveia77) | [LinkedIn](https://www.linkedin.com/in/pedro-henrique-gouveia-590097257/)
+- [GitHub](https://github.com/PedroGouveia77) | [LinkedIn](https://www.linkedin.com/in/pedro-henrique-gouveia-590097257/)
+
+  ### Esse projeto foi feito durante o curso "Aprofundando em Hooks" durante a formação de ReactJS da Rocketseat. Teve duração de 7 horas e foi concluido em 20/03/2025.
