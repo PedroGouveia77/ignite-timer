@@ -4,6 +4,8 @@
 
 Este é um aplicativo do IgniteTimer desenvolvido com Vite, TypeScript e ReactJS. O usuário pode definir uma atividade, escolher um tempo entre 0 e 60 minutos e iniciar a contagem.  
 
+Você pode testar também em - [IgniteTimer](https://ignite-timer-pedrogouveias-projects.vercel.app)
+
 Na página de histórico, a atividade será exibida com o tempo decorrido e um status colorido:
 - 🟢 **Verde**: Concluído
 - 🟡 **Amarelo**: Em andamento
