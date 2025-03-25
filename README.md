@@ -28,8 +28,8 @@ Na página de histórico, a atividade será exibida com o tempo decorrido e um s
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/timer-app.git
-   cd timer-app
+   git clone https://github.com/PedroGouveia77/ignite-timer.git
+   cd ignite-timer (se necessário)
 
 2. Instale as dependências:
     ```sh
